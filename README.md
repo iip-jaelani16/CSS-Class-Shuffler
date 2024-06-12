@@ -14,8 +14,8 @@ ClassShuffler is a tool designed to randomize the class names in your HTML files
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/classshuffler.git
-   cd classshuffler
+   git clone https://github.com/iip-jaelani16/CSS-Class-Shuffler.git
+   cd CSS-Class-Shuffler
    ```
 
 2. Install the required dependencies:
